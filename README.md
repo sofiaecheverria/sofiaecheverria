@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sofia Echeverria</h1>
-<h3 align="center">Data Analytics and Work Health & Safety Specialist | Skilled in Python, SQL & Power BI | Based in Australia</h3>
+<h1 align="center">Hi 👋, I'm Sofía Echeverría</h1>
+<h3 align="center">Data Analytics & Work Health & Safety Specialist | Skilled in Python, SQL, Power BI & Google Cloud | Based in Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiaecheverria&label=Profile%20views&color=0e75b6&style=flat" alt="sofiaecheverria" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 💫 About Me  
+- 🎓 Bachelor in Occupational Health & Safety (Argentina) · Certificate IV in WHS  
+- 📚 Currently completing a Diploma in Leadership & Management  
+- 🛡️ 8+ years as a WHS Specialist  
+- 📊 Passionate about combining **Safety, Data & Automation** to improve decision-making  
+- 🌍 From Argentina 🇦🇷 · Living in Australia 🇦🇺  
+
+---
+
+## 🔧 Tech Stack  
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/emilia-sofia-echeverria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emilia-sofia-echeverria" height="30" width="40" /></a>
-<a href="https://kaggle.com/sofiaecheverria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sofiaecheverria" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+⚡ *Also skilled in Power BI and data visualization.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiaecheverria&show_icons=true&locale=en&layout=compact" alt="sofiaecheverria" /></p>
+---
+## 🎯 Next Goal  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiaecheverria&show_icons=true&locale=en" alt="sofiaecheverria" /></p>
+- 🌐 Learning **Google Cloud Platform (BigQuery, Cloud Functions)** to integrate data pipelines and automation into analytics projects.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiaecheverria&" alt="sofiaecheverria" /></p>
-¨update profile readme¨
+---
+## 🚀 Featured Project  
+
+### 🏀 NBA Analytics Dashboard  
+📊 End-to-end project using **Python + SQL + BigQuery + Power BI**  
+🎯 Goal: Assist recruitment decisions with automated data pipelines & interactive dashboards.  
+
+---
+
+## 📫 Connect with Me  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/emilia-sofia-echeverria" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40"/>
+</a>
+<a href="https://github.com/sofia-echeverria" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="github" height="40"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sofiaecheverria&show_icons=true&theme=default" alt="stats" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiaecheverria&theme=default" alt="streak" height="150"/>
+</p>
